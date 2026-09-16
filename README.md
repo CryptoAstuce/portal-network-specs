@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours pédagogique en français présente l’architecture Portal Network, Discv5, le routage, les réseaux History/State, le wire protocol et JSON-RPC. Voir [docs/fr/README.md](docs/fr/README.md).
+
 # The Portal Network
 
 >  This specification is a work-in-progress and should be considered preliminary.
